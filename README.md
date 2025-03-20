@@ -1,3 +1,3 @@
 # collei-discord-bot
 
-# Bot Private in Colleigas De Tabibito.
+# Private bot in Colleigas of Tabibito.
